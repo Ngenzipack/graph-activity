@@ -79,6 +79,11 @@
       "sequence": 16,
       "timestamp": "2023-06-08T11:17:29-0400",
       "note": "scheduled activity entry"
+    },
+    {
+      "sequence": 17,
+      "timestamp": "2023-06-11T10:00:00-0400",
+      "note": "scheduled activity entry"
     }
   ]
 }
