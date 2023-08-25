@@ -384,6 +384,11 @@
       "sequence": 77,
       "timestamp": "2023-08-22T11:17:29-0400",
       "note": "scheduled activity entry"
+    },
+    {
+      "sequence": 78,
+      "timestamp": "2023-08-25T10:00:00-0400",
+      "note": "scheduled activity entry"
     }
   ]
 }
