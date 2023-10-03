@@ -479,6 +479,11 @@
       "sequence": 96,
       "timestamp": "2023-09-30T12:34:58-0400",
       "note": "scheduled activity entry"
+    },
+    {
+      "sequence": 97,
+      "timestamp": "2023-10-03T10:00:00-0400",
+      "note": "scheduled activity entry"
     }
   ]
 }
