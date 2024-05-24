@@ -1304,6 +1304,11 @@
       "sequence": 261,
       "timestamp": "2024-05-23T11:17:29-0400",
       "note": "scheduled activity entry"
+    },
+    {
+      "sequence": 262,
+      "timestamp": "2024-05-24T10:00:00-0400",
+      "note": "scheduled activity entry"
     }
   ]
 }
