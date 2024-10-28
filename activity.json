@@ -1799,6 +1799,11 @@
       "sequence": 360,
       "timestamp": "2024-10-25T11:17:29-0400",
       "note": "scheduled activity entry"
+    },
+    {
+      "sequence": 361,
+      "timestamp": "2024-10-28T10:00:00-0400",
+      "note": "scheduled activity entry"
     }
   ]
 }
