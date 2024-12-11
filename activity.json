@@ -1979,6 +1979,11 @@
       "sequence": 396,
       "timestamp": "2024-12-10T12:34:58-0400",
       "note": "scheduled activity entry"
+    },
+    {
+      "sequence": 397,
+      "timestamp": "2024-12-11T10:00:00-0400",
+      "note": "scheduled activity entry"
     }
   ]
 }
