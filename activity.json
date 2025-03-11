@@ -2384,6 +2384,11 @@
       "sequence": 477,
       "timestamp": "2025-03-08T12:34:58-0400",
       "note": "scheduled activity entry"
+    },
+    {
+      "sequence": 478,
+      "timestamp": "2025-03-11T10:00:00-0400",
+      "note": "scheduled activity entry"
     }
   ]
 }
