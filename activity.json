@@ -2509,6 +2509,11 @@
       "sequence": 502,
       "timestamp": "2025-04-18T11:17:29-0400",
       "note": "scheduled activity entry"
+    },
+    {
+      "sequence": 503,
+      "timestamp": "2025-04-18T12:34:58-0400",
+      "note": "scheduled activity entry"
     }
   ]
 }
