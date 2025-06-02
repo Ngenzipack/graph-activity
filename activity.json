@@ -2634,6 +2634,11 @@
       "sequence": 527,
       "timestamp": "2025-05-21T10:00:00-0400",
       "note": "scheduled activity entry"
+    },
+    {
+      "sequence": 528,
+      "timestamp": "2025-06-02T10:00:00-0400",
+      "note": "scheduled activity entry"
     }
   ]
 }
