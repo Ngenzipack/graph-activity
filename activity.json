@@ -2804,6 +2804,11 @@
       "sequence": 561,
       "timestamp": "2025-07-28T12:34:58-0400",
       "note": "scheduled activity entry"
+    },
+    {
+      "sequence": 562,
+      "timestamp": "2025-07-31T10:00:00-0400",
+      "note": "scheduled activity entry"
     }
   ]
 }
