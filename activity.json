@@ -3109,6 +3109,11 @@
       "sequence": 622,
       "timestamp": "2025-10-01T12:34:58-0400",
       "note": "scheduled activity entry"
+    },
+    {
+      "sequence": 623,
+      "timestamp": "2025-10-02T10:00:00-0400",
+      "note": "scheduled activity entry"
     }
   ]
 }
