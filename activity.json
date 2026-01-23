@@ -3509,6 +3509,11 @@
       "sequence": 702,
       "timestamp": "2026-01-19T12:34:58-0400",
       "note": "scheduled activity entry"
+    },
+    {
+      "sequence": 703,
+      "timestamp": "2026-01-23T10:00:00-0400",
+      "note": "scheduled activity entry"
     }
   ]
 }
