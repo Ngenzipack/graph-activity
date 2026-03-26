@@ -3734,6 +3734,11 @@
       "sequence": 747,
       "timestamp": "2026-03-25T10:00:00-0400",
       "note": "scheduled activity entry"
+    },
+    {
+      "sequence": 748,
+      "timestamp": "2026-03-26T10:00:00-0400",
+      "note": "scheduled activity entry"
     }
   ]
 }
