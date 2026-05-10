@@ -3889,6 +3889,11 @@
       "sequence": 778,
       "timestamp": "2026-05-08T12:34:58-0400",
       "note": "scheduled activity entry"
+    },
+    {
+      "sequence": 779,
+      "timestamp": "2026-05-10T10:00:00-0400",
+      "note": "scheduled activity entry"
     }
   ]
 }
